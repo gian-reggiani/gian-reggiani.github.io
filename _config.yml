@@ -2,9 +2,9 @@
 markdown: kramdown
 
 # URL of the Site
-url: 'https://gian-reggiani.github.io'
+url: ''
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
-baseurl: gian-reggiani
+baseurl: 
 
 # Title of the Site
 title: Gian Reggiany

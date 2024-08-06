@@ -1,7 +1,7 @@
 ---
 title: Dropshipping Revolutionizing E-Commerce
 layout: post
-post-image: "https://imgur.com/4fe917da-51ca-4c42-a7b8-96a8f73e8545"
+post-image: "https://i.imgur.com/OM47qE5.jpeg"
 description: Dropshipping is a retail fulfillment method where a store doesn't keep the products it sells in stock. Instead, it purchases the item from a third party and has it shipped directly to the customer.
 tags:
 - Dropshipping

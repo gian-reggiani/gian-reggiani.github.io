@@ -1,9 +1,8 @@
 ---
 title: Dropshipping Revolutionizing E-Commerce
 layout: post
-post-image: "https://raw.githubusercontent.com/thedevslot/WhatATheme/master/assets/images/What%20is%20Jekyll%20and%20How%20to%20use%20it.png?token=AHMQUELVG36IDSA4SZEZ5P26Z64IW"
-description: Jekyll is a static site generator. You give it text written in your favorite
-  markup language and it uses layouts to create a static website.
+post-image: "https://imgur.com/4fe917da-51ca-4c42-a7b8-96a8f73e8545"
+description: Dropshipping is a retail fulfillment method where a store doesn't keep the products it sells in stock. Instead, it purchases the item from a third party and has it shipped directly to the customer.
 tags:
 - Dropshipping
 - E-commerce

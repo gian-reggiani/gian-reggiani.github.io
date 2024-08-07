@@ -2,7 +2,7 @@
 title: The Original Tour
 layout: post
 post-image: images/the-orig-tour.jpg
-description: Working as part of the sales team for The Original London, Sightseeing Tour
+description: Promoting the oldest double decade bus tour operator in the world
 tags:
 - Tour Bus
 - Customer Service

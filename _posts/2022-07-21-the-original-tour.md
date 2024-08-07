@@ -1,7 +1,7 @@
 ---
 title: The Original Tour
 layout: post
-post-image: "https://i.imgur.com/aEwql3R.jpeg"
+post-image: images/the-orig-tour.jpg
 description: Working as part of the sales team for The Original London, Sightseeing Tour
 tags:
 - Tour Bus

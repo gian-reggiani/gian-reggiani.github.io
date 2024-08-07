@@ -83,6 +83,9 @@ defaults:
     values:
       layout: page
 
+include:
+  - blog
+
 # Exclude
 exclude:
   - .sass-cache/

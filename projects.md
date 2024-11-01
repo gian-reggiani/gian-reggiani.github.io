@@ -1,5 +1,5 @@
 ---
-title: Experiences
-layout: Experiences
+title: Projects
+layout: Projects
 ---
 
